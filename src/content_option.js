@@ -119,7 +119,7 @@ const dataportfolio = [
     img: tawafonaImg,
     description:
       "Tawafona is a smart platform that helps pilgrims easily book and manage Hajj and Umrah trips.",
-    link: "https://dev.tawafona.com/en",
+    link: "https://tawafona.com/en",
   },
   {
     img: nmaImage,
