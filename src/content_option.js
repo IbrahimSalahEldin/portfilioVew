@@ -2,7 +2,7 @@ import tawafonaImg from "./assets/images/projects/tawafona.png";
 import nmaImage from "./assets/images/projects/nmaColl.png";
 import hmazaImage from "./assets/images/projects/hamza (2).png";
 import qnvexImage from "./assets/images/projects/qnvex.png";
-import tripImage from "./assets/images/projects/tripVex.png"
+import tripImage from "./assets/images/projects/tripVex.png";
 
 const logotext = "Ibrahim";
 const meta = {
@@ -92,7 +92,7 @@ const skills = [
   },
   {
     name: "WordPress",
-    value: 30,
+    value: 60,
   },
 ];
 
@@ -141,8 +141,7 @@ const dataportfolio = [
   },
   {
     img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "Eljaeza freelancer project (Laravel- mysql - reactjs)",
+    description: "Eljaeza freelancer project (Laravel- mysql - reactjs)",
     link: "#",
   },
   {
