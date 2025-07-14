@@ -48,7 +48,7 @@ const skills = [
   },
   {
     name: "Css3",
-    value: 90,
+    value: 95,
   },
   {
     name: "Javascript",
@@ -60,7 +60,7 @@ const skills = [
   },
   {
     name: "Tailwindcss",
-    value: 80,
+    value: 90,
   },
   {
     name: "Shadcn",
@@ -68,10 +68,14 @@ const skills = [
   },
   {
     name: "Reactjs",
-    value: 80,
+    value: 85,
   },
   {
     name: "Nextjs",
+    value: 60,
+  },
+  {
+    name: "WordPress",
     value: 60,
   },
   {
@@ -89,10 +93,6 @@ const skills = [
   {
     name: "PHP",
     value: 30,
-  },
-  {
-    name: "WordPress",
-    value: 60,
   },
 ];
 
