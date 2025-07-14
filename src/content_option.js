@@ -80,19 +80,19 @@ const skills = [
   },
   {
     name: "Nodejs",
-    value: 30,
+    value: 35,
   },
   {
     name: "Mongoose",
-    value: 30,
+    value: 35,
   },
   {
     name: "Express",
-    value: 30,
+    value: 35,
   },
   {
     name: "PHP",
-    value: 30,
+    value: 35,
   },
 ];
 
